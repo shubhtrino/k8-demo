@@ -1,0 +1,10 @@
+
+Project contains simple Spring boot project with one RSST end point that is deployable usinfg Docker and K8s
+
+Commands
+
+
+kubectl create deployement <deployementName> --image=<ImageName>
+kubectl describe pod <podnName>
+kubectl logs <podname>
+
