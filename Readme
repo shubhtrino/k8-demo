@@ -1,5 +1,5 @@
 
-Project contains simple Spring boot project with one RSST end point that is deployable usinfg Docker and K8s
+Project contains simple Spring boot project with one REST end point that is deployable usinfg Docker and K8s
 
 Commands
 
